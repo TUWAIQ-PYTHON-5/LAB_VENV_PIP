@@ -1,6 +1,6 @@
 from art import *
 
-tprint("BELIEVE ",font="block",chr_ignore=True)
+tprint("BELIEVE and ACHEIVE",font="block",chr_ignore=True)
 
 
 # Come up with different phrases with different art and decoration.
